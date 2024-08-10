@@ -51,7 +51,7 @@
   line-height: 74px;
 }
 
-.weather img {
+.weather canvas {
   line-height: 80px;
   font-size: 80px;
   width: 64px;
