@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import WeatherInfo from "./WeatherInfo";
-import WeatherForcast from "./WeatherForecast";
+import WeatherForecast from "./WeatherForecast";
 import axios from "axios";
 import "./App.css";
 
@@ -78,7 +78,7 @@ export default function App(props) {
             </a>{" "}
             and is{" "}
             <a
-              href=" https://github.com/tinah1992"
+              href="https://github.com/tinahb1992/project-weather-react"
               target="_blank"
               rel="noopener noreferrer"
             >
