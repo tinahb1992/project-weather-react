@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import WeatherInfo from "./WeatherInfo";
+import WeatherInfo from "./Weatherinfo";
 import WeatherForecast from "./WeatherForecast";
 import axios from "axios";
 import "./App.css";
@@ -86,9 +86,8 @@ export default function App(props) {
             </a>{" "}
             and{" "}
             <a
-              href="https://app.netlify.com/sites/singular-cheesecake-f585cf/overview"
+              href="https://singular-cheesecake-f585cf.netlify.app/"
               target="_blank"
-              rel="noopener noreferrer"
             >
               hosted on netlify
             </a>
