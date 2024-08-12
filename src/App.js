@@ -85,12 +85,6 @@ export default function App(props) {
               open-sourced on github
             </a>{" "}
             and{" "}
-            <a
-              href="https://singular-cheesecake-f585cf.netlify.app/"
-              target="_blank"
-            >
-              hosted on netlify
-            </a>
           </footer>
         </div>
       </div>
